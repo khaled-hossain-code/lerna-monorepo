@@ -10,8 +10,6 @@
   "scripts": {
     "test": "lerna run test",
     "test:button": "lerna run test --scope=@rcl/button",
-    "bump": "lerna version --conventional-commits --yes",
-    "bump:button": "lerna run test --scope=@rcl/button",
     "diff": "lerna diff"
   }
 }
