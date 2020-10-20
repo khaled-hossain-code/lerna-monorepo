@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "lerna run test",
-    "test:button": "lerna run test --scope=@rcl/button",
-    "diff": "lerna diff"
+    "bump": "lerna version --conventional-commits --yes",
+    "test:button": "lerna run test --scope=@rcl/button"
   }
 }
