@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'no test in Card'",
-    "bump": "lerna version --conventional-commits --yes"
+    "test": "echo 'no test in Card'"
   },
   "dependencies": {
     "@rcl/button": "^1.0.2"

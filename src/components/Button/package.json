@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo 'no test in Button!'",
-    "bump": "lerna version --conventional-commits --yes"
+    "test": "echo 'no test in Button!'"
   }
 }
