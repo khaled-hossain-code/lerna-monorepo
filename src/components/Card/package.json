@@ -1,12 +1,12 @@
 {
   "name": "@rcl/card",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo 'no test in Card!'"
   },
   "dependencies": {
-    "@rcl/button": "^1.0.3"
+    "@rcl/button": "^1.0.4"
   }
 }
