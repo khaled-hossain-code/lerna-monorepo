@@ -1,0 +1,7 @@
+{
+  "name": "rcl",
+  "private": true,
+  "workspaces": [
+    "src/components/*"
+  ]
+}
