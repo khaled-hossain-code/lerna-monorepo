@@ -1,6 +1,6 @@
 {
   "name": "@rcl/card",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,6 +8,6 @@
     "bump": "lerna version --conventional-commits --yes"
   },
   "dependencies": {
-    "@rcl/button": "^1.0.4"
+    "@rcl/button": "^1.0.5"
   }
 }
